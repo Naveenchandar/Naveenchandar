@@ -73,13 +73,13 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+
 - ['This' in Javascript](https://dev.to/naveenchandar/this-in-javascript-i84)
 - [NPM commands every developer should know](https://dev.to/naveenchandar/npm-commands-every-developer-should-know-13dk)
 - [HTML input attributes](https://dev.to/naveenchandar/html-input-attributes-4g08)
 - [Javascript web storage](https://dev.to/naveenchandar/web-storage-api-3d49)
 - [CSS Box Model](https://dev.to/naveenchandar/css-box-model-4h6f)
-<!-- BLOG-POST-LIST:START -->
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenchandar&show_icons=true&locale=en&layout=compact" alt="naveenchandar" /></p>
 
