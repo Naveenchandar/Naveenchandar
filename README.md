@@ -81,6 +81,16 @@
 - [CSS Box Model](https://dev.to/naveenchandar/css-box-model-4h6f)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenchandar&show_icons=true&locale=en&layout=compact" alt="naveenchandar" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenchandar&show_icons=true&locale=en" alt="naveenchandar" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenchandar&" alt="naveenchandar" /></p>
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/Naveenchandar">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenchandar&show_icons=true&locale=en&layout=compact" alt="naveenchandar" />
+</a>
+
+<a href="https://github.com/Naveenchandar">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=naveenchandar&show_icons=true&locale=en" alt="Naveen's GitHub Stats" />
+</a>
+<br>
+<a href="https://github.com/Naveenchandar"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenchandar&" alt="naveenchandar" /></a>
