@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenchandar" alt="naveenchandar" /></a> </p> -->
 
-- 🔭 I’m currently working on [react-tube](https://github.com/Naveenchandar/retro-tube)
+<!-- - 🔭 I’m currently working on [react-tube](https://github.com/Naveenchandar/retro-tube) -->
 
-- 🌱 I’m currently learning **TypeScript, Express, node.js, MongoDB**
+- 🌱 I’m currently learning **TypeScript, ExpressJS, NodeJS, MongoDB, React-Testing-Library**
 
 - 👯 I’m looking to collaborate on **web development**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/naveenchandar](https://dev.to/naveenchandar)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux**
 
 - 📫 How to reach me **naveenchandece@gmail.com**
 
