@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [react-tube](https://github.com/Naveenchandar/retro-tube) -->
 
-- 🌱 I’m currently learning **TypeScript, ExpressJS, NodeJS, MongoDB, React-Testing-Library**
+- 🌱 I’m currently learning **Micro Frontend**
 
 - 👯 I’m looking to collaborate on **web development**
 
