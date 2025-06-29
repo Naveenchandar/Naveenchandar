@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [react-tube](https://github.com/Naveenchandar/retro-tube) -->
 
-- 🌱 I’m currently learning **Micro Frontend**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👯 I’m looking to collaborate on **web development**
 
@@ -15,7 +15,9 @@
 
 - 📝 I regularly write articles on [https://dev.to/naveenchandar](https://dev.to/naveenchandar)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux**
+- 📝 I regularly post on Linkedin. [My Linkedin Profile](https://www.linkedin.com/in/naveen-chandarv/)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Typescript**
 
 - 📫 How to reach me **naveenchandece@gmail.com**
 
